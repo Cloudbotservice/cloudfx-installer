@@ -7,7 +7,7 @@ Offizieller 1-Klick Installer für das **Nevermind CloudFX FiveM Server Panel**.
 Führe einfach folgenden Befehl auf deinem Linux Server (Ubuntu/Debian) als `root` aus:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/Cloudbotservice/cloudfx-installer/main/install.sh | bash
+curl -sSL https://tx.nevermind-roleplay.de/install.sh | bash
 ```
 
 ### Features des Installers:
